@@ -8,7 +8,7 @@ int main(void)
 {
 	char letta;
 
-	for(letta = 'a'; letta <= 'z'; letta++)
+	for (letta = 'a'; letta <= 'z'; letta++)
 	{
 		putchar(letta);
 	
