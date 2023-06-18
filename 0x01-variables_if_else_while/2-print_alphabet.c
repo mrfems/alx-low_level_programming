@@ -13,6 +13,7 @@ int main(void)
 		putchar(letta);
 	
 	}
+	
 	putchar('\n');
 
 	return (0);
