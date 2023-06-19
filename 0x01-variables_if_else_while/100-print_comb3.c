@@ -9,17 +9,17 @@
 
 int main(void)
 {
-	int i, j;
+	int numb1, numb2;
 
-	for (i = 48; i < 58; i++)
+	for (numb1 = 48; numb1 < 58; numb1++)
 	{
-		for (j = 49; j < 58; j++)
+		for (numb2 = 49; numb2 < 58; numb2++)
 		{
-			if (j > i)
+			if (numb2 > numb1)
 			{
-				putchar(i);
-				putchar(j);
-				if (i < 56 || j < 57)
+				putchar(numb1);
+				putchar(numb2);
+				if (numb1 < 56 || numb2 < 57)
 				{
 					putchar(44);
 					putchar(32);
