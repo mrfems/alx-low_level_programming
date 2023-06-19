@@ -2,7 +2,8 @@
 
 /**
  * main - main block
- * Description: Generate print all possible combinations of two digits using putchar.
+ * Description: Generate print all possible combinations of two digits 
+ * using putchar.
  * Numbers must be separated by commas and a space.
  * Return: 0
  */
