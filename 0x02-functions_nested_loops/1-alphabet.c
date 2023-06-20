@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * Description: A program to general annd print a-z
  * print_alphabet - prints the alphabets in lowercase, followed by a new line
+ * Description: A program to general annd print a-z
  * Return: always success 0
  */
 void print_alphabet(void)
