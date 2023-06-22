@@ -21,3 +21,4 @@ int main(void)
 	}
 	printf("%ld\n", total_sum);
 	return (0);
+}
