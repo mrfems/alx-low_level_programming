@@ -9,12 +9,12 @@ int main(void)
 {
 	unsigned long int num1, num2, num3, n1, n2, m1, m2;
 
-	num1 = 0;
-	num2 = 2;
+	num2 = 1;
+	num3 = 2;
 
 	printf("%lu", num2);
 
-	for (num1 = num1; num1 < 91; num1++)
+	for (num1 = 1; num1 < 91; num1++)
 	{
 		printf(", %lu", num3);
 		num3 = num3 + num2;
